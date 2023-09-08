@@ -32,8 +32,13 @@ CarType.java - Перечисление типов автомобилей.
 FuelType.java - Перечисление типов топлива.
 
 GearboxType.java - Перечисление типов коробки передач.
+
 Refueling.java - Интерфейс для заправки автомобилей.
+
 RefuelingStation.java - Реализация интерфейса `Refueling` для заправочной станции.
+
 RefuelingStationV2.java - Вторая реализация интерфейса `Refueling`.
+
 Wiping.java - Интерфейс для работы с мойкой автомобилей.
+
 CarWash.java - Класс для мойки автомобилей.
